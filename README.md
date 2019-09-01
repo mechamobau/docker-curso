@@ -10,6 +10,7 @@ O conteúdo deste curso está dividido em:
 1. [Conceitos básicos](./conceitos_basicos.md)
 2. [Containers](./containers.md)
 3. [Trabalhando com Containers](./trabalhando_containers.md)
+4. [Redes](./redes.md)
 
 Para reforçar o conteúdo do curso, eu utilizei de algumas referências que listo abaixo e conforme for utilizando de novas referências irei acrescentando:
 
